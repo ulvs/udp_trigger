@@ -1,6 +1,6 @@
 # UDP Monitor and Sender
 
-UDP Monitor and Sender is a Python application that consists of two components: a monitor (`main.py`) and a sender (`udp_sender.py`). The monitor component listens for UDP messages on a specific port and displays them in a graphical user interface (GUI). The sender component sends UDP messages to a specified IP address and port.
+UDP Monitor and Sender is a Python application that consists of two components: a monitor (`udp_monitor.py`) and a sender (`udp_sender.py`). The monitor component listens for UDP messages on a specific port and displays them in a graphical user interface (GUI). The sender component sends UDP messages to a specified IP address and port.
 
 ## Prerequisites
 
