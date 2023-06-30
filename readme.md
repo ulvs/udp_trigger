@@ -12,13 +12,13 @@ UDP Monitor and Sender is a Python application that consists of two components: 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/udp-monitor.git
+   git clone https://github.com/ulvs/udp_trigger.git
    ```
 
 2. Change to the project directory:
 
    ```shell
-   cd udp-monitor
+   cd udp_trigger
    ```
 
 3. Install the required packages using pip:
@@ -53,5 +53,3 @@ python udp_sender.py
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Feel free to customize the content and formatting of the `README.md` file according to your project's specific needs.
